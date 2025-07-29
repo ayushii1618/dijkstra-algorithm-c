@@ -1,4 +1,4 @@
-🗺️ Dijkstra’s Algorithm in C – OSS Lab (5th Semester)
+🗺️ Dijkstra’s Algorithm in C 
 
 This repository contains a C program that implements Dijkstra’s Algorithm for finding the shortest path from a source vertex to all other vertices in a weighted directed graph using an adjacency matrix.
 
